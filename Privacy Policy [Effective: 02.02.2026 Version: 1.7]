@@ -1,0 +1,308 @@
+### (Original) German 
+
+Datenschutzerklärung für die Spiele‑Server von JMA – “JMA creative”, “JMA capturetheflag”, “JMA Voxelibre (Mineclone2)" und weitere server der JMA Group.
+
+Stand: 02.02.2026 Version: 1.7
+
+Diese Datenschutzerklärung gilt für die oben genannten Spiele‑Server (nachfolgend „Server“ genannt). Der Betreiber nimmt den Schutz Ihrer personenbezogenen Daten ernst und hält sich an die geltenden Datenschutzgesetze. Mit dieser Erklärung möchten wir Sie darüber informieren, wie wir Ihre Daten erheben, verwenden und weitergeben.
+
+    Personenbezogene Daten
+    Beim Zugang zu unserem Server werden bestimmte Informationen automatisch erfasst, darunter:
+        IP‑Adresse – wird für die Verbindung zu unserem Server benötigt.
+        Benutzername – der Name, den Sie verwenden, um sich auf unserem Server zu identifizieren.
+        Spielverhalten – Daten über Ihre Aktivitäten im Spiel, um das Spielerlebnis zu verbessern und die Serverleistung zu analysieren.
+        Client‑Informationen – Informationen über das verwendete Client‑Programm, Betriebssystem und Verbindung zum Server.
+
+    Verwendung der Daten
+    Die gesammelten Daten werden verwendet, um:
+        Den Server und die Spielumgebung zu betreiben und zu verwalten.
+        Die Spielsicherheit zu gewährleisten und anstößiges Verhalten zu überwachen.
+        Die Leistung des Servers zu analysieren und gegebenenfalls Anpassungen und Verbesserungen vorzunehmen.
+        Den Nutzern Support bereitzustellen und auf Anfragen zu reagieren.
+
+    Rechtsgrundlagen der Verarbeitung
+        IP‑Adresse und Client‑Informationen werden zur Erfüllung des Vertrags (Art. 6 Abs. 1 lit. b DSGVO) sowie aufgrund unseres berechtigten Interesses an Sicherheit und Fehlersuche (Art. 6 Abs. 1 lit. f) verarbeitet.
+        Benutzername und Spielverhalten dienen der Vertragserfüllung und der Wahrung unseres berechtigten Interesses an einem funktionierenden, sicheren Spielbetrieb (Art. 6 Abs. 1 lit. b und f).
+        Weitergabe an Dritte (z. B. iphub.info, babbel.com, discord.com, deepseek.com) erfolgt auf Grundlage gesetzlicher Pflichten (Art. 6 Abs. 1 lit. c) bzw. aufgrund abgeschlossener Auftrags‑Verarbeitungs‑Verträge (Art. 28 DSGVO).
+
+    Weitergabe von Daten
+    Grundsätzlich bleiben die Daten innerhalb der JMA‑Group und werden dort gespeichert und verarbeitet. Bei Bedarf werden sie an Moderatoren weitergeleitet. Ihre Daten werden in folgenden Fällen an Dritte weitergegeben:
+        An Behörden – bei Verdacht auf kriminelle Handlungen oder auf Anfrage von Sicherheitsbehörden ausschließlich im Rahmen der gesetzlichen Vorschriften. Dies gilt im Normalfall für Behörden in Deutschland und eingeschränkt innerhalb der EU.
+        Dritte Dienstleister – in bestimmten Fällen können wir Drittanbieter mit der Verarbeitung von Daten, die zur Bereitstellung unserer Dienste erforderlich sind, beauftragen. Diese Dienstleister sind vertraglich verpflichtet, die Daten vertraulich zu behandeln und nur gemäß unseren Vorgaben zu verwenden.
+
+    Liste der Dritten Dienstleister
+        iphub.info – zuständig für das Erkennen von VPN/VPS‑Hosting‑Diensten. Erhält: IP, Nutzername. Datenschutz: https://iphub.info/legal/privacy
+        babbel.com – zuständig für das Übersetzen von Text. Erhält: Nutzername, Nachrichten der Spieler, die übersetzt werden. Datenschutz: https://babbel.com/legal/privacy
+        discord.com – ermöglicht die Chat‑Brücke zwischen Discord und dem Server. Erhält: öffentliche Nachrichten und die Namen der jeweiligen Verfasser. Datenschutz: https://discord.com/privacy
+        deepseek.com – zuständig für die Moderation der Chats. Erhält: öffentliche Nachrichten und die Namen der jeweiligen Verfasser, Private Nachrichten: anonymisierte IDs und den Inhalt der Nachrichten. Datenschutz: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
+
+    Sicherheit der Daten
+    Der Betreiber ergreift angemessene technische und organisatorische Maßnahmen, um die Sicherheit Ihrer Daten zu gewährleisten und vor unbefugtem Zugriff, Verlust oder Missbrauch zu schützen. Dennoch ist zu beachten, dass keine Methode der Datenübertragung oder -speicherung über das Internet absolut sicher ist. Wir können daher keine absolute Sicherheit garantieren.
+
+    Speicherung der Daten & Datenlöschung
+        Server‑Log‑Dateien (z. B. Verbindungs‑ und Aktivitätslogs) werden normalerweise bis zu 60 Tage gespeichert und anschließend automatisch überschrieben. In Ausnahmefällen, etwa bei Verdachtsmomenten oder behördlichen Anfragen, kann die Aufbewahrung bis zu 365 Tage betragen, bis die Untersuchung abgeschlossen ist.
+        In‑Game‑Errungenschaften, Punkte und andere Statistiken werden grundsätzlich dauerhaft gespeichert. Gleiches gilt für Daten, die die Sicherheit des Servers gewährleisten (z. B. Namen und IP‑Adressen im Bansystem).
+        Das Moderationssystem speichert die IP‑Adresse dauerhaft, um die Serversicherheit zu gewährleisten. Eine Löschung dieser Daten ist nur nach einer ausdrücklichen Anfrage möglich, sofern keine aktuellen strafrechtlichen Ermittlungen gegen den Nutzer laufen und der Nutzer nicht durch Moderationsmaßnahmen (z. B. Ausschluss, Stummschaltung) eingeschränkt ist. Nach Eingang einer Löschanfrage können die Daten bis zu 365 Tage gespeichert bleiben, bis die endgültige Löschung erfolgt.
+
+    Betroffenenrechte
+    Sie haben das Recht, jederzeit Auskunft über die von uns gespeicherten personenbezogenen Daten zu erhalten (Art. 15 DSGVO). Darüber hinaus stehen Ihnen folgende Rechte zu:
+        Berichtigung (Art. 16) – Korrektur unrichtiger Daten.
+        Löschung (Art. 17) – Entfernung Ihrer Daten, soweit keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+        Einschränkung der Verarbeitung (Art. 18) – Beschränkung der Nutzung Ihrer Daten.
+        Datenübertragbarkeit (Art. 20) – Erhalt Ihrer Daten in einem strukturierten, gängigen Format.
+        Widerspruch (Art. 21) – Ablehnung der Verarbeitung aus Gründen des berechtigten Interesses.
+
+    Alle Anfragen können Sie per E‑Mail an loki@jma‑sig.de richten. Wir werden Ihr Anliegen unverzüglich, spätestens jedoch innerhalb eines Monats, bearbeiten.
+
+    Haftungsausschluss
+    Der Betreiber übernimmt keinerlei Haftung für Schäden, die durch die Nutzung des Servers oder durch unzureichende Verfügbarkeit oder Sicherheit der Daten entstehen. Dies umfasst direkte, indirekte, zufällige und Folgeschäden, die durch die Nutzung oder den Zugriff auf unsere Dienste verursacht werden könnten.
+
+    Änderungen der Datenschutzerklärung
+    Die Datenschutzerklärung kann von Zeit zu Zeit aktualisiert werden. Änderungen werden in der Server‑Beschreibung (Datum der letzten Änderung) und im Spiel über ein GUI‑Hinweis bekanntgegeben. Es obliegt den Nutzern, sich über etwaige Änderungen zu informieren und vor dem Betreten des Servers zu überprüfen, ob eine Änderung vorliegt (genannt in der Serverbeschreibung). Durch die fortgesetzte Nutzung des Servers stimmen Sie den geänderten Bedingungen zu.
+
+    Kontakt
+    Bei Fragen oder Anregungen zu dieser Datenschutzerklärung können Sie uns unter folgenden Kontaktdaten erreichen:
+
+    JMA Group
+    E‑Mail: loki@jma‑sig.de
+
+
+
+### English
+
+Privacy Policy for the JMA Game Servers – “JMA creative”, “JMA capturetheflag”, “JMA Voxelibre (Mineclone2)” and other servers of the JMA Group.
+Effective: 02.02.2026 Version: 1.7
+This privacy policy applies to the servers listed above (hereinafter “Servers”). The operator takes the protection of your personal data seriously and complies with applicable data‑protection laws. With this statement we inform you how we collect, use, and disclose your data.
+
+
+Personal Data
+When accessing our server, certain information is automatically recorded, including:
+
+IP address – required for connecting to our server.
+Username – the name you use to identify yourself on the server.
+Gameplay behavior – data about your in‑game activities to improve the experience and analyse server performance.
+Client information – details about the client program, operating system, and connection.
+
+
+
+Use of Data
+The collected data are used to:
+
+Operate and manage the server and game environment.
+Ensure game security and monitor abusive behaviour.
+Analyse server performance and make adjustments/improvements where necessary.
+Provide support and respond to inquiries.
+
+
+
+Legal Bases for Processing
+
+IP address and client information are processed for contract fulfilment (Art. 6 (1) b GDPR) and based on our legitimate interest in security and troubleshooting (Art. 6 (1) f).
+Username and gameplay behaviour serve contract fulfilment and our legitimate interest in a functional, safe operation (Art. 6 (1) b and f).
+Disclosure to third parties (e.g., iphub.info, babbel.com, discord.com, deepseek.com) is based on legal obligations (Art. 6 (1) c) or on concluded data‑processing agreements (Art. 28 GDPR).
+
+
+
+Data Disclosure
+Generally, data remain within the JMA Group and are stored/processed there. They may be forwarded to moderators when needed. Data are disclosed to third parties in the following cases:
+
+Authorities – when criminal suspicion exists or upon request by security authorities, strictly within legal provisions (normally German authorities and, to a limited extent, EU authorities).
+Third‑party service providers – in certain cases we may engage external providers necessary for delivering our services. These providers are contractually obliged to treat the data confidentially and use them only according to our instructions.
+
+List of Third‑Party Providers
+
+iphub.info – detects VPN/VPS hosting services. Receives: IP, username. Privacy: https://iphub.info/legal/privacy
+babbel.com – provides translation of text. Receives: username, player messages that are translated. Privacy: https://babbel.com/legal/privacy
+discord.com – enables the chat bridge between Discord and the server. Receives: public messages and the authors’ names. Privacy: https://discord.com/privacy
+deepseek.com – responsible for chat moderation. Receives: public messages and authors’ names; private messages: anonymised IDs and content. Privacy: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
+
+
+
+Data Security
+The operator implements appropriate technical and organisational measures to safeguard your data against unauthorised access, loss, or misuse. Nevertheless, no internet transmission or storage method can guarantee absolute security, and we cannot provide an absolute guarantee.
+
+
+Data Retention & Deletion
+
+Server log files (e.g., connection and activity logs) are normally retained for up to 60 days and then overwritten automatically. In exceptional cases (e.g., suspicion of wrongdoing or legal requests), retention may extend up to 365 days until investigations conclude.
+In‑game achievements, points, and other statistics are stored permanently. The same applies to data required for server security (e.g., usernames and IP addresses in the ban system).
+The moderation system stores the IP address permanently to ensure server security. Deletion is possible only after an explicit request, provided no ongoing criminal investigations or moderation actions (e.g., bans, mutes) apply. After receiving a deletion request, data may be kept for up to 365 days until final removal.
+
+
+
+Data Subject Rights
+You have the right to obtain information about the personal data we store about you (Art. 15 GDPR). Additionally, you are entitled to:
+
+Rectification (Art. 16) – correction of inaccurate data.
+Erasure (Art. 17) – removal of your data, unless statutory retention obligations apply.
+Restriction of processing (Art. 18) – limitation of data use.
+Data portability (Art. 20) – receipt of your data in a structured, commonly used format.
+Objection (Art. 21) – refusal of processing based on legitimate‑interest grounds.
+
+All requests can be sent via e‑mail to loki@jma‑sig.de; we will act promptly, and no later than one month.
+
+
+Disclaimer
+The operator assumes no liability for damages arising from the use of the server, insufficient availability, or data security. This includes direct, indirect, incidental, or consequential damages caused by accessing or using our services.
+
+
+Changes to this Privacy Policy
+The policy may be updated from time to time. Changes will be announced in the server description (date of last change) and via an in‑game GUI notice. It is the users’ responsibility to stay informed about any modifications and to verify them before joining the server (as noted in the server description). Continued use of the server constitutes acceptance of the revised terms.
+
+
+Contact
+For questions or suggestions regarding this privacy policy, contact us at:
+JMA Group
+E‑mail: loki@jma‑sig.de
+
+
+
+### Spanish (Español)
+
+Política de Privacidad para los servidores de juegos de JMA – “JMA creative”, “JMA capturetheflag”, “JMA Voxelibre (Mineclone2)” y otros servidores del Grupo JMA.
+Fecha: 02.02.2026 Versión: 1.7
+Esta política de privacidad se aplica a los servidores mencionados (en adelante, “Servidores”). El operador toma en serio la protección de sus datos personales y cumple con la legislación vigente en materia de protección de datos. Con esta declaración le informamos sobre cómo recopilamos, utilizamos y compartimos sus datos.
+
+
+Datos Personales
+Al acceder a nuestro servidor se registran automáticamente ciertos datos, entre ellos:
+
+Dirección IP – necesaria para la conexión al servidor.
+Nombre de usuario – el nombre que utiliza para identificarse en el servidor.
+Comportamiento en el juego – datos sobre sus actividades dentro del juego para mejorar la experiencia y analizar el rendimiento del servidor.
+Información del cliente – datos del programa cliente, sistema operativo y conexión.
+
+
+
+Uso de los Datos
+Los datos recopilados se utilizan para:
+
+Operar y gestionar el servidor y el entorno del juego.
+Garantizar la seguridad del juego y supervisar conductas abusivas.
+Analizar el rendimiento del servidor y realizar ajustes/mejoras cuando sea necesario.
+Proporcionar soporte y responder a consultas.
+
+
+
+Bases Legales del Tratamiento
+
+La dirección IP y la información del cliente se tratan para cumplir el contrato (art. 6 (1) b RGPD) y por nuestro interés legítimo en seguridad y solución de problemas (art. 6 (1) f).
+El nombre de usuario y el comportamiento en el juego sirven para la ejecución del contrato y nuestro interés legítimo en un funcionamiento seguro y funcional (art. 6 (1) b y f).
+La divulgación a terceros (por ejemplo, iphub.info, babbel.com, discord.com, deepseek.com) se basa en obligaciones legales (art. 6 (1) c) o en acuerdos de procesamiento de datos (art. 28 RGPD).
+
+
+
+Divulgación de Datos
+En principio, los datos permanecen dentro del Grupo JMA y se almacenan y procesan allí. Cuando sea necesario, pueden ser remitidos a moderadores. Los datos se comparten con terceros en los siguientes casos:
+
+Autoridades – ante sospecha de delito o a solicitud de autoridades de seguridad, siempre dentro del marco legal (normalmente autoridades alemanas y, en medida limitada, autoridades de la UE).
+Proveedores externos – en algunos casos podemos contratar a proveedores externos necesarios para ofrecer nuestros servicios. Estos proveedores están obligados contractualmente a tratar los datos confidencialmente y solo según nuestras instrucciones.
+
+Lista de Proveedores Externos
+
+iphub.info – detecta servicios VPN/VPS. Recibe: IP, nombre de usuario. Política de privacidad: https://iphub.info/legal/privacy
+babbel.com – traduce textos. Recibe: nombre de usuario, mensajes de jugadores que se traducen. Política de privacidad: https://babbel.com/legal/privacy
+discord.com – permite el puente de chat entre Discord y el servidor. Recibe: mensajes públicos y nombres de los autores. Política de privacidad: https://discord.com/privacy
+deepseek.com – se encarga de la moderación de chats. Recibe: mensajes públicos y nombres de los autores; mensajes privados: IDs anonimizadas y contenido. Política de privacidad: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
+
+
+
+Seguridad de los Datos
+El operador implementa medidas técnicas y organizativas apropiadas para proteger sus datos contra accesos no autorizados, pérdida o uso indebido. Sin embargo, ningún método de transmisión o almacenamiento por Internet puede garantizar una seguridad absoluta, por lo que no podemos ofrecer una garantía total.
+
+
+Retención y Eliminación de Datos
+
+Los archivos de registro del servidor (por ejemplo, registros de conexión y actividad) se conservan normalmente hasta 60 días y luego se sobrescriben automáticamente. En casos excepcionales (por ejemplo, sospechas de irregularidades o solicitudes legales), la retención puede extenderse hasta 365 días hasta que concluya la investigación.
+Los logros, puntos y otras estadísticas del juego se guardan de forma permanente. Lo mismo ocurre con los datos necesarios para la seguridad del servidor (por ejemplo, nombres y direcciones IP en el sistema de prohibiciones).
+El sistema de moderación almacena la dirección IP de forma permanente para garantizar la seguridad del servidor. Su eliminación solo es posible tras una solicitud explícita, siempre que no haya investigaciones penales en curso ni acciones de moderación (por ejemplo, expulsiones, silenciamientos). Tras recibir la solicitud, los datos pueden permanecer hasta 365 días antes de su eliminación definitiva.
+
+
+
+Derechos del Titular de los Datos
+Usted tiene derecho a obtener información sobre los datos personales que almacenamos (art. 15 RGPD). Además, dispone de los siguientes derechos:
+
+Rectificación (art. 16) – corrección de datos inexactos.
+Supresión (art. 17) – eliminación de sus datos, salvo que existan obligaciones legales de conservación.
+Limitación del tratamiento (art. 18) – restricción del uso de los datos.
+Portabilidad de datos (art. 20) – recibir sus datos en un formato estructurado y de uso común.
+Oposición (art. 21) – rechazar el tratamiento basado en intereses legítimos.
+
+Todas las solicitudes pueden enviarse por correo electrónico a loki@jma‑sig.de; responderemos sin dilación y, como máximo, en un mes.
+
+
+Exención de Responsabilidad
+El operador no asume responsabilidad alguna por daños derivados del uso del servidor, la disponibilidad insuficiente o la seguridad de los datos. Esto incluye daños directos, indirectos, incidentales o consecuentes causados por el acceso o uso de nuestros servicios.
+
+
+Modificaciones de la Política de Privacidad
+La política puede actualizarse periódicamente. Los cambios se anunciarán en la descripción del servidor (fecha de la última modificación) y mediante un aviso en la interfaz del juego. Corresponde a los usuarios mantenerse informados sobre cualquier cambio y verificarlo antes de entrar al servidor (según lo indicado en la descripción). El uso continuado del servidor implica la aceptación de los términos modificados.
+
+
+Contacto
+Para preguntas o sugerencias sobre esta política de privacidad, contáctenos en:
+JMA Group
+Correo electrónico: loki@jma‑sig.de
+
+
+
+### Russian (Русский)
+Политика конфиденциальности для игровых серверов JMA – “JMA creative”, “JMA capturetheflag”, “JMA Voxelibre (Mineclone2)” и других серверов группы JMA.
+Дата вступления в силу: 02.02.2026 Версия: 1.7
+Настоящая политика конфиденциальности применяется к указанным выше серверам (далее — «Серверы»). Оператор серьёзно относится к защите ваших персональных данных и соблюдает действующее законодательство о защите данных. В данном документе мы информируем вас о том, какие данные собираются, как они используются и передаются.
+
+
+Персональные данные
+При подключении к нашему серверу автоматически фиксируются следующие сведения:
+
+IP‑адрес – необходим для соединения с сервером.
+Имя пользователя – имя, под которым вы идентифицируетесь на сервере.
+Игровое поведение – данные о вашей активности в игре, используемые для улучшения игрового процесса и анализа производительности сервера.
+Информация о клиенте – сведения о клиентском программном обеспечении, операционной системе и соединении.
+
+
+
+Использование данных
+Собранные данные применяются для:
+
+Эксплуатации и управления сервером и игровой средой.
+Обеспечения безопасности игры и мониторинга нежелательного поведения.
+Анализа производительности сервера и внесения при необходимости корректировок и улучшений.
+Предоставления поддержки пользователям и ответа на запросы.
+
+
+
+Правовые основания обработки
+
+IP‑адрес и информация о клиенте обрабатываются для выполнения договора (ст. 6 п. 1 б GDPR) и на основании нашего законного интереса в сфере безопасности и устранения ошибок (ст. 6 п. 1 ф).
+Имя пользователя и игровое поведение служат выполнению договора и нашему законному интересу в надёжной, безопасной работе (ст. 6 п. 1 б и ф).
+Передача третьим сторонам (например, iphub.info, babbel.com, discord.com, deepseek.com) осуществляется на основе юридических обязательств (ст. 6 п. 1 в) либо в рамках заключённых договоров об обработке данных (ст. 28 GDPR).
+
+
+
+Передача данных
+Как правило, данные остаются внутри группы JMA и хранятся/обрабатываются там. При необходимости они могут быть переданы модераторам. Данные передаются третьим лицам в следующих случаях:
+
+Власти – при подозрении на преступные действия или по запросу правоохранительных органов, строго в рамках законодательства (обычно органы Германии и в ограниченном объёме – органы ЕС).
+Третьи поставщики услуг – в отдельных случаях мы привлекаем внешних провайдеров, необходимых для предоставления наших сервисов. Такие провайдеры обязаны конфиденциально обращаться с данными и использовать их только согласно нашим указаниям.
+
+Список сторонних поставщиков
+
+iphub.info – определяет VPN/VPS‑хостинг. Получает: IP, имя пользователя. Политика конфиденциальности: https://iphub.info/legal/privacy
+babbel.com – перевод текста. Получает: имя пользователя, сообщения игроков, которые переводятся. Политика конфиденциальности: https://babbel.com/legal/privacy
+discord.com – обеспечивает мост чата между Discord и сервером. Получает: публичные сообщения и имена их авторов. Политика конфиденциальности: https://discord.com/privacy
+deepseek.com – отвечает за модерацию чатов. Получает: публичные сообщения и имена их авторов; приватные сообщения: анонимизированные ID и содержание. Политика конфиденциальности: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
+
+
+
+Безопасность данных
+Оператор принимает надлежащие технические и организационные меры для обеспечения безопасности ваших данных от несанкционированного доступа, потери или злоупотребления. Однако ни один метод передачи или хранения данных через Интернет не может гарантировать абсолютную безопасность, поэтому мы не можем предоставить полную гарантию.
+
+
+Хранение и удаление данных
+
+Журналы сервера (например, логи соединений и активности) обычно хранятся до 60 дней, после чего автоматически перезаписываются. В исключительных случаях (подозрение в нарушениях или запросы органов) срок может быть продлён до 365 дней, пока расследование не завершится.
+Достижения в игре, очки и прочая статистика сохраняются постоянно. То же касается данных, необходимых для обеспечения безопасности сервера (например, имена и IP‑адреса в системе банов).
+Система модерации хранит IP‑адрес постоянно для поддержания безопасности сервера. Удаление возможно лишь после явного запроса, если нет текущих уголовных расследований или мер модерации (например, блокировка, отключение микрофона). После получения запроса данные могут оставаться до 365 дней, пока не будет выполнено окончательное удаление.
+
+
