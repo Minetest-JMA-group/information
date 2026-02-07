@@ -23,7 +23,7 @@ Diese Datenschutzerklärung gilt für die oben genannten Spiele‑Server (nachfo
     Rechtsgrundlagen der Verarbeitung
         IP‑Adresse und Client‑Informationen werden zur Erfüllung des Vertrags (Art. 6 Abs. 1 lit. b DSGVO) sowie aufgrund unseres berechtigten Interesses an Sicherheit und Fehlersuche (Art. 6 Abs. 1 lit. f) verarbeitet.
         Benutzername und Spielverhalten dienen der Vertragserfüllung und der Wahrung unseres berechtigten Interesses an einem funktionierenden, sicheren Spielbetrieb (Art. 6 Abs. 1 lit. b und f).
-        Weitergabe an Dritte (z. B. iphub.info, babbel.com, discord.com, deepseek.com) erfolgt auf Grundlage gesetzlicher Pflichten (Art. 6 Abs. 1 lit. c) bzw. aufgrund abgeschlossener Auftrags‑Verarbeitungs‑Verträge (Art. 28 DSGVO).
+        Weitergabe an Dritte (z. B. iphub.info, Google Translate, discord.com, deepseek.com) erfolgt auf Grundlage gesetzlicher Pflichten (Art. 6 Abs. 1 lit. c) bzw. aufgrund abgeschlossener Auftrags‑Verarbeitungs‑Verträge (Art. 28 DSGVO).
 
     Weitergabe von Daten
     Grundsätzlich bleiben die Daten innerhalb der JMA‑Group und werden dort gespeichert und verarbeitet. Bei Bedarf werden sie an Moderatoren weitergeleitet. Ihre Daten werden in folgenden Fällen an Dritte weitergegeben:
@@ -32,7 +32,7 @@ Diese Datenschutzerklärung gilt für die oben genannten Spiele‑Server (nachfo
 
     Liste der Dritten Dienstleister
         iphub.info – zuständig für das Erkennen von VPN/VPS‑Hosting‑Diensten. Erhält: IP, Nutzername. Datenschutz: https://iphub.info/legal/privacy
-        babbel.com – zuständig für das Übersetzen von Text. Erhält: Nutzername, Nachrichten der Spieler, die übersetzt werden. Datenschutz: https://babbel.com/legal/privacy
+        Google Translate – zuständig für das Übersetzen von Text. Erhält: Nutzername, Nachrichten der Spieler, die übersetzt werden, bevorzugte Sprache des Spielers. Datenschutz: https://policies.google.com/privacy
         discord.com – ermöglicht die Chat‑Brücke zwischen Discord und dem Server. Erhält: öffentliche Nachrichten und die Namen der jeweiligen Verfasser. Datenschutz: https://discord.com/privacy
         deepseek.com – zuständig für die Moderation der Chats. Erhält: öffentliche Nachrichten und die Namen der jeweiligen Verfasser, Private Nachrichten: anonymisierte IDs und den Inhalt der Nachrichten. Datenschutz: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
 
@@ -99,7 +99,7 @@ Legal Bases for Processing
 
 IP address and client information are processed for contract fulfilment (Art. 6 (1) b GDPR) and based on our legitimate interest in security and troubleshooting (Art. 6 (1) f).
 Username and gameplay behaviour serve contract fulfilment and our legitimate interest in a functional, safe operation (Art. 6 (1) b and f).
-Disclosure to third parties (e.g., iphub.info, babbel.com, discord.com, deepseek.com) is based on legal obligations (Art. 6 (1) c) or on concluded data‑processing agreements (Art. 28 GDPR).
+Disclosure to third parties (e.g., iphub.info, Google Translate, discord.com, deepseek.com) is based on legal obligations (Art. 6 (1) c) or on concluded data‑processing agreements (Art. 28 GDPR).
 
 
 
@@ -112,7 +112,7 @@ Third‑party service providers – in certain cases we may engage external prov
 List of Third‑Party Providers
 
 iphub.info – detects VPN/VPS hosting services. Receives: IP, username. Privacy: https://iphub.info/legal/privacy
-babbel.com – provides translation of text. Receives: username, player messages that are translated. Privacy: https://babbel.com/legal/privacy
+Google Translate – provides translation of text. Receives: username, player messages that are translated, player's preferred language. Privacy: https://policies.google.com/privacy
 discord.com – enables the chat bridge between Discord and the server. Receives: public messages and the authors’ names. Privacy: https://discord.com/privacy
 deepseek.com – responsible for chat moderation. Receives: public messages and authors’ names; private messages: anonymised IDs and content. Privacy: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
 
@@ -188,7 +188,7 @@ Bases Legales del Tratamiento
 
 La dirección IP y la información del cliente se tratan para cumplir el contrato (art. 6 (1) b RGPD) y por nuestro interés legítimo en seguridad y solución de problemas (art. 6 (1) f).
 El nombre de usuario y el comportamiento en el juego sirven para la ejecución del contrato y nuestro interés legítimo en un funcionamiento seguro y funcional (art. 6 (1) b y f).
-La divulgación a terceros (por ejemplo, iphub.info, babbel.com, discord.com, deepseek.com) se basa en obligaciones legales (art. 6 (1) c) o en acuerdos de procesamiento de datos (art. 28 RGPD).
+La divulgación a terceros (por ejemplo, iphub.info, Google Translate, discord.com, deepseek.com) se basa en obligaciones legales (art. 6 (1) c) o en acuerdos de procesamiento de datos (art. 28 RGPD).
 
 
 
@@ -201,7 +201,7 @@ Proveedores externos – en algunos casos podemos contratar a proveedores extern
 Lista de Proveedores Externos
 
 iphub.info – detecta servicios VPN/VPS. Recibe: IP, nombre de usuario. Política de privacidad: https://iphub.info/legal/privacy
-babbel.com – traduce textos. Recibe: nombre de usuario, mensajes de jugadores que se traducen. Política de privacidad: https://babbel.com/legal/privacy
+Google Translate – traduce textos. Recibe: nombre de usuario, mensajes del jugador que se traducen, idioma preferido del jugador. Política de privacidad: https://policies.google.com/privacy
 discord.com – permite el puente de chat entre Discord y el servidor. Recibe: mensajes públicos y nombres de los autores. Política de privacidad: https://discord.com/privacy
 deepseek.com – se encarga de la moderación de chats. Recibe: mensajes públicos y nombres de los autores; mensajes privados: IDs anonimizadas y contenido. Política de privacidad: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
 
@@ -276,7 +276,7 @@ IP‑адрес – необходим для соединения с серве
 
 IP‑адрес и информация о клиенте обрабатываются для выполнения договора (ст. 6 п. 1 б GDPR) и на основании нашего законного интереса в сфере безопасности и устранения ошибок (ст. 6 п. 1 ф).
 Имя пользователя и игровое поведение служат выполнению договора и нашему законному интересу в надёжной, безопасной работе (ст. 6 п. 1 б и ф).
-Передача третьим сторонам (например, iphub.info, babbel.com, discord.com, deepseek.com) осуществляется на основе юридических обязательств (ст. 6 п. 1 в) либо в рамках заключённых договоров об обработке данных (ст. 28 GDPR).
+Передача третьим сторонам (например, iphub.info, Гугл переводчик, discord.com, deepseek.com) осуществляется на основе юридических обязательств (ст. 6 п. 1 в) либо в рамках заключённых договоров об обработке данных (ст. 28 GDPR).
 
 
 
@@ -289,7 +289,7 @@ IP‑адрес и информация о клиенте обрабатываю
 Список сторонних поставщиков
 
 iphub.info – определяет VPN/VPS‑хостинг. Получает: IP, имя пользователя. Политика конфиденциальности: https://iphub.info/legal/privacy
-babbel.com – перевод текста. Получает: имя пользователя, сообщения игроков, которые переводятся. Политика конфиденциальности: https://babbel.com/legal/privacy
+Гугл переводчик – перевод текста. Получает: имя пользователя, переведенные сообщения игрока, предпочитаемый язык игрока. Политика конфиденциальности: https://policies.google.com/privacy
 discord.com – обеспечивает мост чата между Discord и сервером. Получает: публичные сообщения и имена их авторов. Политика конфиденциальности: https://discord.com/privacy
 deepseek.com – отвечает за модерацию чатов. Получает: публичные сообщения и имена их авторов; приватные сообщения: анонимизированные ID и содержание. Политика конфиденциальности: https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html
 
