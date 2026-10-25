@@ -1,6 +1,5 @@
-"JMA Support" aka PlexTickets
 
-  1  WHO IS RESPONSIBLE FOR YOUR DATA
+ 1   WHO IS RESPONSIBLE FOR YOUR DATA
 
 PlexTickets is a self-hosted support ticket bot. It is operated by JMA Group ("we", "us"), the team running the JMA Group Discord server. We decide why and how the data described below is processed, which makes us the data controller under the EU General Data Protection Regulation (GDPR).
 
@@ -8,7 +7,7 @@ The bot runs on our own virtual machine, located in Germany. It is not a public 
 
 Contact for privacy matters: support.jma@proton.me
 
- 2   WHAT DATA WE PROCESS
+  2  WHAT DATA WE PROCESS
 
 When you open a ticket or take part in one, the bot processes:
 
@@ -22,7 +21,24 @@ We do not collect your e-mail address, IP address, payment details, or any speci
 
 Because the bot runs inside Discord, Discord Inc. also processes your data as the platform provider, independently of us, under Discord's own Privacy Policy (https://discord.com/privacy).
 
- 3   WHY WE PROCESS IT, AND ON WHAT LEGAL BASIS
+  3  BOT DIRECT MESSAGES (DMs)
+
+The Bot may send you direct messages (DMs) in the following situations:
+
+    When you create a ticket — to confirm receipt and provide a ticket number
+    When your ticket is closed — to notify you and optionally provide a transcript
+
+These DMs are automated notifications related to ticket handling. They contain no data beyond the notification itself.
+
+You can stop receiving these DMs by:
+
+    Blocking the Bot on Discord (you will lose access to ticket notifications)
+    Muting the Bot's messages using Discord's built-in options
+    Disabling direct messages from server members in your Discord settings (may also affect ticket notifications)
+
+If you block the Bot, we may not be able to notify you about your ticket status.
+
+  4  WHY WE PROCESS IT, AND ON WHAT LEGAL BASIS
 
 We use your data only to:
 
@@ -33,7 +49,7 @@ We use your data only to:
 
 We do not use your data for advertising, profiling, or any purpose unrelated to support.
 
- 4   THIRD-PARTY AI SERVICE FOR FAQ MATCHING
+ 5   THIRD-PARTY AI SERVICE FOR FAQ MATCHING
 
 When you submit a ticket, your initial message may be automatically checked against our FAQ using DeepSeek, an artificial intelligence service provided by Hangzhou DeepSeek Artificial Intelligence Co., Ltd. (China).
 
@@ -58,20 +74,20 @@ Legal basis:
 
     We rely on our legitimate interest (Art. 6(1)(f) GDPR) in improving support efficiency by providing quick automated answers when your question matches known FAQs.
 
- 5   WHO CAN SEE YOUR DATA
+   6 WHO CAN SEE YOUR DATA
 
 Access is limited to JMA Group server staff holding the staff role(s) that grant visibility of ticket channels and the bot's logs. Individual tickets are visible to the ticket creator and to staff.
 
 We do not sell, rent or share your data with third parties. We disclose data only:
 
     to staff members who need it to handle your ticket;
-    to DeepSeek for the limited purpose of FAQ matching (see section 4);
+    to DeepSeek for the limited purpose of FAQ matching (see section 5);
     if we are legally obliged to, for example in response to a valid request from law enforcement or a court;
     where necessary to establish, exercise or defend legal claims.
 
 Service providers involved: Discord Inc. (the platform the bot runs on), DeepSeek (FAQ matching service), and our hosting infrastructure (our own VM in Germany). Our own storage stays in Germany. Where providers such as Discord or DeepSeek process data outside the EU/EEA, that happens under their own transfer mechanisms.
 
- 6   HOW LONG WE KEEP IT
+ 7   HOW LONG WE KEEP IT
 
     Open tickets: for as long as the ticket is active.
     Closed tickets and their transcripts: 12 months after closure, then deleted automatically.
@@ -80,17 +96,17 @@ Service providers involved: Discord Inc. (the platform the bot runs on), DeepSee
 
 Note: We have no control over how long DeepSeek retains your data. Please refer to DeepSeek's own privacy policy for their retention practices (https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html).
 
- 7   HOW WE PROTECT YOUR DATA
+ 8   HOW WE PROTECT YOUR DATA
 
     Ticket channels are restricted to the ticket creator and staff roles.
     Access to the bot's database and logs requires a staff account, and is limited to the staff who need it.
     The VM is reachable only via SSH keys / VPN, with two-factor authentication on administrative accounts.
     Data is transmitted over encrypted connections (HTTPS/TLS) to all third-party services.
-    Old tickets are deleted according to the schedule in section 6.
+    Old tickets are deleted according to the schedule in section 7.
 
 No system can be guaranteed completely secure, but we take these measures to keep the risk low.
 
-  8  YOUR RIGHTS
+ 9   YOUR RIGHTS
 
 Under the GDPR you have the right to:
 
@@ -109,19 +125,19 @@ IMPORTANT: Deletion requests cannot be submitted through Discord. They must be s
 
 Regarding DeepSeek: you do not have direct rights vis-a-vis DeepSeek. You can ask us to request deletion from DeepSeek on your behalf, but we cannot guarantee DeepSeek will comply as they are an independent data processor under their own policies.
 
-  9  AUTOMATED DECISION-MAKING
+  10  AUTOMATED DECISION-MAKING
 
 We use automated processing to check your ticket message against our FAQ and provide a suggested answer. This is not an automated decision that produces legal effects or similarly significantly affects you — it is simply a suggested answer that you can accept or ignore. Final resolution always involves human staff if you choose to continue the conversation.
 
-  10  AGE
+   11 AGE
 
 Discord requires users to be at least 13 years old (older in some countries). The bot is not directed at anyone below Discord's minimum age, and we do not knowingly process their data. If you believe a minor has submitted data through the bot, contact us and we will delete it.
 
-  11  CHANGES TO THIS POLICY
+  12  CHANGES TO THIS POLICY
 
 We may update this policy, for example if the bot's features or the law change. The current version is always available through the bot's Privacy Policy button. We will announce material changes in our announcement channel.
 
-  12  CONTACT
+    CONTACT
 
 Questions, requests or complaints about this policy:
 
