@@ -1,0 +1,167 @@
+
+  1  ACCEPTANCE OF TERMS
+
+These Terms of Service ("Terms") govern your use of the PlexTickets support ticket bot ("the Bot", "the Service") operated by JMA Group on the JMA Group Discord server.
+
+By opening a ticket or interacting with the Bot in any way, you confirm that you have read, understood, and agree to be bound by these Terms and our Privacy Policy (which is incorporated into these Terms by reference). If you do not agree with any part of these Terms, you must stop using the Bot immediately.
+
+ 2   DESCRIPTION OF SERVICE
+
+PlexTickets is a self-hosted support ticket system that enables members of the JMA Group Discord server to:
+
+    Submit support tickets for assistance with issues
+    Communicate privately with server staff
+    Receive automated FAQ responses when their question matches known topics
+    Track the status and history of their support requests
+
+The Bot is provided free of charge to members of the JMA Group Discord server and is not available as a commercial or public service.
+
+  3  ELIGIBILITY
+
+To use the Bot, you must:
+
+    Be at least 13 years old (or older if required by your country's laws)
+    Be a member of the JMA Group Discord server
+    Have a valid Discord account in good standing
+
+If you are under 18 years old, you confirm that you have obtained permission from a parent or guardian to use this service.
+
+ 4   USER CONDUCT AND OBLIGATIONS
+
+When using the Bot, you agree to:
+
+    Use the Bot only for legitimate support requests related to the JMA Group server or services
+    Provide accurate and truthful information in your tickets
+    Respect staff members handling your ticket
+    Not abuse the ticket system by opening excessive duplicate tickets
+
+You agree NOT to:
+
+    Submit illegal, harmful, threatening, harassing, or abusive content
+    Send spam, malware, viruses, or any harmful code
+    Attempt to exploit, hack, or bypass the Bot's security measures
+    Use the Bot for any purpose unrelated to obtaining support from JMA Group
+    Impersonate staff members or other users
+    Share sensitive information that should not be transmitted via Discord (e.g., passwords, payment details, personal identification numbers)
+    Abuse the automated FAQ response system to test or probe the AI service
+
+Violations may result in ticket closure, restriction from the ticket system, temporary suspension, or permanent ban from the JMA Group Discord server, at our sole discretion.
+
+  5  DISCORD TERMS
+
+Your use of the Bot is also subject to Discord's own Terms of Service and Community Guidelines (https://discord.com/terms). Discord acts as the platform provider, and we do not control or assume responsibility for Discord's services.
+
+    BOT DIRECT MESSAGES (DMs)
+
+The Bot may send you direct messages (DMs) as notifications about your ticket activity, including:
+
+    Confirmation messages when you create a ticket
+    Notifications when your ticket is closed (optionally including a transcript)
+
+These DMs are automated and contain only ticket-related notifications. They do not contain advertising or unrelated promotional content.
+
+If you do not wish to receive these DMs, you can:
+
+    Block the Bot on Discord (note: this may prevent you from receiving ticket status notifications)
+    Mute the Bot's messages using Discord's built-in options
+    Disable direct messages from server members in your Discord settings
+
+By continuing to use the Bot after being informed of this capability, you acknowledge that you may receive these automated DMs.
+
+  6  DEEPSEEK AI SERVICE
+
+As described in our Privacy Policy, your ticket opening message may be processed by DeepSeek (an AI service provided by Hangzhou DeepSeek Artificial Intelligence Co., Ltd.) to identify FAQ matches.
+
+By using the Bot, you acknowledge that:
+
+    Your message text will be sent to DeepSeek's servers
+    DeepSeek has its own privacy policy (https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html) that governs how they process your data
+    This involves international data transfer outside the EU/EEA
+
+You can bypass this processing by ignoring the automated FAQ response and continuing directly with human staff.
+
+  7  NO WARRANTIES
+
+THE BOT IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY LAW, JMA GROUP DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO:
+
+    That the Bot will be uninterrupted, error-free, or secure
+    That results obtained from the Bot will be accurate, complete, or reliable
+    That any defects in the Bot will be corrected
+    Any implied warranties of merchantability, fitness for a particular purpose, or non-infringement
+
+WE DO NOT WARRANT THAT THE BOT WILL MEET YOUR SPECIFIC REQUIREMENTS OR EXPECTATIONS.
+
+  8  LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, JMA GROUP SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO:
+
+    Loss of profits, data, use, goodwill, or other intangible losses
+    Any unauthorized access to or alteration of your transmissions or data
+    Any statements or conduct of any third party on or through the service
+    Any other matter relating to the Bot
+
+OUR TOTAL CUMULATIVE LIABILITY TO YOU FOR ANY CLAIM ARISING OUT OF THESE TERMS OR YOUR USE OF THE BOT SHALL NOT EXCEED EUR 50 (FIFTY EURO).
+
+Some jurisdictions do not allow the exclusion or limitation of certain warranties or liabilities, so some of the above limitations may not apply to you.
+
+ 9   SUPPORT RESPONSE TIMES AND AVAILABILITY
+
+    We do not guarantee specific response times for ticket handling
+    Staff availability varies and tickets may remain unanswered outside of peak hours
+    We reserve the right to close inactive tickets after a reasonable period (typically 7 days without user activity)
+    No uptime or availability guarantees are provided
+
+ 10   DATA RETENTION AND DELETION
+
+Your use of the Bot is subject to our data retention practices as described in the Privacy Policy. Key points:
+
+    Closed tickets and transcripts are retained for 12 months, then deleted automatically
+    You may request deletion of your data at any time by emailing support.jma@proton.me
+    Deletion requests cannot be submitted through Discord
+    We have no control over how long third-party services like DeepSeek retain your data
+
+  11  MODIFICATION OF TERMS
+
+We may update these Terms from time to time. When we make changes:
+
+    We will update the "last updated" date at the top of this document
+    Material changes will be announced in our Discord announcement channel
+    Your continued use of the Bot after changes take effect constitutes acceptance of the updated Terms
+    If you do not accept the updated Terms, you must stop using the Bot
+
+  12  TERMINATION
+
+We reserve the right to suspend or terminate your access to the Bot, in whole or in part, at any time and for any reason, including but not limited to:
+
+    Violation of these Terms
+    Suspension or termination of your Discord account
+    Discontinuation of the Service
+    Legal requirements
+
+Upon termination, your right to use the Bot will cease immediately. Sections on disclaimers, liability limitations, and any other provisions that by their nature should survive termination will remain in effect.
+
+  13  GOVERNING LAW AND JURISDICTION
+
+These Terms shall be governed by and construed in accordance with the laws of the Federal Republic of Germany, without regard to its conflict of law provisions.
+
+Any disputes arising from these Terms or your use of the Bot shall be subject to the exclusive jurisdiction of the courts in Germany, specifically the courts competent for the location of JMA Group's operations.
+
+Consumer protection provisions of your country of residence that cannot be waived by contract remain unaffected.
+
+  14  SEVERABILITY
+
+If any provision of these Terms is held to be invalid, illegal, or unenforceable, the remaining provisions shall continue in full force and effect. The invalid provision shall be deemed modified to the minimum extent necessary to make it valid and enforceable.
+
+  15  WAIVER
+
+Our failure to enforce any right or provision of these Terms shall not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+  16  ENTIRE AGREEMENT
+
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and JMA Group regarding your use of the Bot, superseding any prior agreements or arrangements.
+
+  17  CONTACT INFORMATION
+
+For questions about these Terms, privacy concerns, or to exercise your rights:
+
+E-mail: support.jma@proton.me
